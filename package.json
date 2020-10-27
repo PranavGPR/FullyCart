@@ -1,5 +1,5 @@
 {
-  "name": "amazona",
+  "name": "fullycart",
   "type": "module",
   "version": "1.0.0",
   "description": "Ecommerce website like amazon",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/amazona.git"
+    "url": "git+https://github.com/PranavGPR/FullyCart.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/amazona/issues"
+    "url": "https://github.com/PranavGPR/FullyCart/issues"
   },
-  "homepage": "https://github.com/basir/amazona#readme",
+  "homepage": "https://github.com/PranavGPR/FullyCart#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
