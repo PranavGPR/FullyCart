@@ -4,7 +4,7 @@ import SyncLoader from "react-spinners/SyncLoader";
 
 export default function LoadingBox() {
   const override = css`
-    width: 100vw;
+    width: 90vw;
     height: 80vh;
     display: flex;
     align-items: center;
