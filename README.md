@@ -79,5 +79,9 @@ This part shows list of reviews by users for each products. also it provides a f
 
 ## Summary
 
-In this repo, we have made an eCommerce website like Amazon. Feel free to change this project based on your needs and add it to your portfolio.
-Also, I will love to hear your comment about this React and Node tutorial. Please share your thoughts here.
+In this repo, we have made an eCommerce website like Amazon.
+Thanks to Basir for creating an awesome course on React and Node Tutorial.
+
+Check his course here: https://youtu.be/TRCDsB9i3bI
+
+Feel free to change this project based on your needs and add it to your portfolio. Please share your thoughts.
