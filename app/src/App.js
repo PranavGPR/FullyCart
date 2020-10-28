@@ -81,9 +81,6 @@ function App() {
                   <li>
                     <Link to="/orderlist">Orders</Link>
                   </li>
-                  <li>
-                    <Link to="/userlist">Users</Link>
-                  </li>
                 </ul>
               </div>
             )}
