@@ -14,7 +14,7 @@ export default function LoadingBox() {
   `;
 
   return (
-    <div className="sweet-loading">
+    <div className='sweet-loading'>
       <SyncLoader css={override} size={25} color={"#123abc"} loading={true} />
     </div>
   );

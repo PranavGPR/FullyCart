@@ -5,6 +5,8 @@
   "description": "Ecommerce website like amazon",
   "main": "index.js",
   "scripts": {
+    "deps:app": "cd app && npm i && cd ..",
+    "deps": "npm i && npm run deps:app",
     "build": "cd app && npm install && npm run build",
     "start": "nodemon --watch api --exec node --experimental-modules api/server.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix app && npm run build --prefix app"
@@ -13,10 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/PranavGPR/FullyCart.git"
   },
-  "author": "",
+  "author": "PranavGPR",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PranavGPR/FullyCart/issues"
+    "url": "https://github.com/PranavGPR/FullyCart#issues"
   },
   "homepage": "https://github.com/PranavGPR/FullyCart#readme",
   "dependencies": {
@@ -30,9 +32,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  },
-  "engines": {
-    "node": "12.4.0",
-    "npm": "6.9.0"
   }
 }
